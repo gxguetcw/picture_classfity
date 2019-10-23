@@ -1,5 +1,6 @@
 # picture_classfity
 本脚本是针对大量规则的图片文件夹按照一定的规则进行分类到新建的文件夹中
+
 #生成exe文件
 安装pyinstaller   
 pip install pyinstaller 
